@@ -1,8 +1,8 @@
-# PowerCLI Core
+# PowerCLI VMC
 
 ## Welcome!
 
-This Docker image contains PowerShell Core, PowerCLI 10, PowerNSX, and a number of community modules and script examples
+This Docker image contains PowerShell Core, PowerCLI 10, PowerNSX, VMC and a number of community modules and script examples
 
 For detailed information on how to use the container have a look at the docs.
 
